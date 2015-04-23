@@ -5,6 +5,12 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
+        triangleExercises();
+        diamondExercises();
+        fizzBuzzExercises();
+    }
+
+    private static void triangleExercises() {
         AsteriskMaker.printOneAsterisk();
         Scanner scanner = new Scanner(System.in);
         if(scanner.hasNext()) {
@@ -24,6 +30,9 @@ public class Main {
             AsteriskMaker.drawRightTriangle(n);
         }
 
+    }
+
+    private static void diamondExercises() {
         Scanner scannerCenteredTriangle = new Scanner(System.in);
         if(scannerCenteredTriangle.hasNext()) {
             int n = Integer.parseInt(scannerCenteredTriangle.next());
@@ -41,5 +50,11 @@ public class Main {
             int n = Integer.parseInt(scannerDiamondWithName.next());
             AsteriskMaker.drawDiamondWithName(n);
         }
+    }
+
+
+    private static void fizzBuzzExercises() {
+        FizzBuzz fizzbuzz = new FizzBuzz();
+        fizzbuzz.FizzBuzz();
     }
 }
