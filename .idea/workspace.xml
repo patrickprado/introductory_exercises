@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ceb4f47-c6d1-430e-8063-7d45325ec396" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/introductory_exercises/com/introductory_exercises/Factor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/introductory_exercises/com/introductory_exercises/FactorTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/introductory_exercises/com/introductory_exercises/Prime.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/introductory_exercises/com/introductory_exercises/PrimeTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/introductory_exercises/Factor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/com/introductory_exercises/FactorTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/introductory_exercises/Prime.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/com/introductory_exercises/PrimeTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/introductory_exercises/com/introductory_exercises/FizzBuzzTest.class" afterPath="$PROJECT_DIR$/out/test/introductory_exercises/com/introductory_exercises/FizzBuzzTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/com/introductory_exercises/FizzBuzzTest.java" afterPath="$PROJECT_DIR$/test/com/introductory_exercises/FizzBuzzTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/introductory_exercises/Main.java" afterPath="$PROJECT_DIR$/src/com/introductory_exercises/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/introductory_exercises/Factor.java" afterPath="$PROJECT_DIR$/src/com/introductory_exercises/Factor.java" />
     </list>
     <ignored path="introductory_exercises.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -59,8 +48,8 @@
       <file leaf-file-name="Factor.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/introductory_exercises/Factor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.754717">
-              <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+            <state vertical-scroll-proportion="0.5974843">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -665,12 +654,12 @@
       <created>1429738493789</created>
       <option name="number" value="Default" />
       <updated>1429738493789</updated>
-      <workItem from="1429738495124" duration="9777000" />
+      <workItem from="1429738495124" duration="9891000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9777000" />
+    <option name="totallyTimeSpent" value="9891000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -796,8 +785,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/introductory_exercises/Factor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.754717">
-          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.5974843">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

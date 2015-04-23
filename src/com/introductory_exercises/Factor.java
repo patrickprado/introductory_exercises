@@ -21,9 +21,7 @@ public class Factor {
 
     public static void printFactors(int n) {
         List<Integer> list = generate(n);
-        for(Integer i : list) {
-            System.out.println(i);
-        }
+        list.forEach(System.out::println);
     }
 
 }
