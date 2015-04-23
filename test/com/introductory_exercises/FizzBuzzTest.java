@@ -18,13 +18,12 @@ public class FizzBuzzTest {
     }
 
     @Test
-    public void divisibleByThree() {
-        assertTrue(fizzBuzz.divisibleByThree(18));
+    public void testDivisibleByThree() throws Exception {
+        assertTrue(fizzBuzz.divisibleByThree(27));
     }
 
     @Test
-    public void divisibleByFive() {
+    public void testDivisibleByFive() throws Exception {
         assertTrue(fizzBuzz.divisibleByFive(25));
     }
-
 }

@@ -8,6 +8,7 @@ public class Main {
         triangleExercises();
         diamondExercises();
         fizzBuzzExercises();
+        primeFactorsExercises();
     }
 
     private static void triangleExercises() {
@@ -52,9 +53,16 @@ public class Main {
         }
     }
 
-
     private static void fizzBuzzExercises() {
         FizzBuzz fizzbuzz = new FizzBuzz();
         fizzbuzz.FizzBuzz();
+    }
+
+
+    private static void primeFactorsExercises() {
+        Scanner scanner = new Scanner(System.in);
+        if(scanner.hasNext()) {
+            Factor.printFactors(Integer.parseInt(scanner.next()));
+        }
     }
 }
